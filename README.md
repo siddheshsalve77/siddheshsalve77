@@ -1,34 +1,28 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--           SIDDHESH SALVE — GITHUB PROFILE README           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
 <!-- ANIMATED HEADER BANNER -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:001d3d,55:003566,85:0077b6,100:00b4d8&height=280&section=header&text=Siddhesh%20Salve&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=☁️%20Data%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Analytics%20Builder&descAlignY=58&descColor=90e0ef&animation=twinkling&stroke=00b4d8&strokeWidth=3"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,25:001d3d,55:003566,85:0077b6,100:00b4d8&height=280&section=header&text=Siddhesh%20Salve&fontSize=75&fontColor=ffffff&fontAlignY=38&desc=%E2%98%81%EF%B8%8F%20Data%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Analytics%20Builder&descAlignY=58&descColor=90e0ef&animation=twinkling&stroke=00b4d8&strokeWidth=3"/>
 </div>
 
-<!-- DYNAMIC TYPING BANNER -->
+<!-- DYNAMIC TYPING ANIMATION — FIXED DIRECT URL -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&height=60&lines=🚀+Building+Scalable+Data+Pipelines+on+Cloud;☁️+AWS+%7C+Snowflake+%7C+dbt+%7C+Apache+Airflow;🔧+ETL+%2F+ELT+%7C+Data+Warehousing+%7C+Streaming;📊+Transforming+Raw+Data+→+Real+Business+Gold;🌊+From+Data+Lakes+to+Production+Dashboards;🐍+Python+%7C+SQL+%7C+Spark+%7C+Kafka+%7C+PostgreSQL" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=800&height=60&lines=Building+Scalable+Data+Pipelines+on+Cloud;AWS+%7C+Snowflake+%7C+dbt+%7C+Apache+Airflow;ETL+%2F+ELT+%7C+Data+Warehousing+%7C+Streaming;Transforming+Raw+Data+into+Real+Business+Gold;From+Data+Lakes+to+Production+Dashboards;Python+%7C+SQL+%7C+Spark+%7C+Kafka+%7C+PostgreSQL" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- LIVE BADGES ROW -->
+<!-- LIVE BADGES — FIXED (no emoji in label, clean URLs) -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddheshsalve77&color=00b4d8&style=flat-square&label=👁️+Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=siddheshsalve77&color=00b4d8&style=flat-square&label=Profile+Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/siddheshsalve77?style=flat-square&color=00b4d8&label=👥+Followers"/>
+  <img src="https://img.shields.io/github/followers/siddheshsalve77?style=flat-square&color=00b4d8&labelColor=0d1117&label=Followers&logo=github&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/github/stars/siddheshsalve77?affiliations=OWNER&style=flat-square&color=ffd60a&label=⭐+Total+Stars"/>
+  <img src="https://img.shields.io/github/stars/siddheshsalve77?affiliations=OWNER&style=flat-square&color=ffd60a&labelColor=0d1117&label=Stars&logo=github&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-00b4d8?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Data%20Engineering-00b4d8?style=flat-square&labelColor=0d1117"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Lives-India%20🇮🇳-FF9933?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Based%20In-India-FF9933?style=flat-square&labelColor=0d1117"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to-Work-success?style=flat-square&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/Open%20To-Work-brightgreen?style=flat-square&labelColor=0d1117&logo=linkedin&logoColor=white"/>
 </div>
 
 <br/>
@@ -46,20 +40,19 @@
 ├─────────────────────────────────────────┤
 │ name        : Siddhesh Salve            │
 │ role        : Data Engineer & Analyst   │
-│ location    : India 🇮🇳                 │
+│ location    : India                     │
 │ timezone    : IST (UTC +5:30)           │
-│ experience  : Fresher → Growing Fast 📈 │
 ├─────────────────────────────────────────┤
 │ currently:                              │
-│   🔭 building  : Cloud ETL Pipelines    │
-│   🌱 learning  : Spark · dbt · Kafka    │
-│   🏗️  goal     : Data Engineer @ MNC   │
-│   💡 exploring : Real-time Streaming    │
+│   building  : Cloud ETL Pipelines       │
+│   learning  : Spark, dbt, Kafka         │
+│   goal      : Data Engineer @ MNC       │
+│   exploring : Real-time Streaming       │
 ├─────────────────────────────────────────┤
 │ fun_facts:                              │
-│   ☕ Coffee → Code → Commit → Repeat    │
-│   📊 I see patterns everywhere          │
-│   🌙 Best code written after midnight   │
+│   Coffee -> Code -> Commit -> Repeat    │
+│   I see patterns everywhere             │
+│   Best code written after midnight      │
 └─────────────────────────────────────────┘
 ```
 
@@ -67,13 +60,13 @@
 
 ---
 
-## 🏗️ My Data Engineering Pipeline (How I Think)
+## 🏗️ My Data Engineering Pipeline
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════╗
-║                    🌊 END-TO-END DATA PIPELINE FLOW                     ║
+║                    END-TO-END DATA PIPELINE FLOW                        ║
 ╠════════════╦══════════════╦══════════════╦══════════════╦═══════════════╣
-║  📥 INGEST ║  🗄️  STORE  ║ ⚙️ TRANSFORM ║  📤 SERVE   ║  📊 CONSUME  ║
+║  INGEST    ║    STORE     ║  TRANSFORM   ║    SERVE     ║   CONSUME    ║
 ╠════════════╬══════════════╬══════════════╬══════════════╬═══════════════╣
 ║ REST APIs  ║  AWS S3      ║  dbt Core    ║  Snowflake   ║  Power BI    ║
 ║ Databases  ║  Data Lake   ║  Spark Jobs  ║  Redshift    ║  Dashboards  ║
@@ -81,7 +74,7 @@
 ║ Kafka      ║  Parquet     ║  SQL CTEs    ║  Aggregates  ║  ML Models   ║
 ║ Webhooks   ║  Delta Lake  ║  Glue Jobs   ║  Curated     ║  Alerts      ║
 ╠════════════╩══════════════╩══════════════╩══════════════╩═══════════════╣
-║  🎯 Apache Airflow (Orchestration)  ·  📋 Data Quality  ·  📈 Monitor  ║
+║    Apache Airflow Orchestration  .  Data Quality  .  Monitoring         ║
 ╚══════════════════════════════════════════════════════════════════════════╝
 ```
 
@@ -103,9 +96,9 @@
 
 ### 🔄 Pipeline, Orchestration & Streaming
 <p>
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
 </p>
 
@@ -126,13 +119,13 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-### 📊 BI, Visualization & Reporting
+### 📊 BI & Visualization
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
   <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### 🛠️ DevOps, Tools & Version Control
+### 🛠️ DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -148,14 +141,14 @@
 ## 📊 Skill Proficiency
 
 ```
-Data Engineering  ████████████████░░░░  80%  🚀 Growing
-SQL & Databases   ███████████████████░  92%  💪 Strong
-Python            ███████████████░░░░░  75%  📈 Improving
-Power BI          ████████████████████  95%  ⭐ Strong
-AWS Cloud         ████████████░░░░░░░░  60%  🌱 Learning
-Apache Airflow    ██████████░░░░░░░░░░  50%  🔧 Practicing
-Apache Spark      ████████░░░░░░░░░░░░  40%  📖 Studying
-dbt               ███████░░░░░░░░░░░░░  35%  🌱 Beginner
+SQL & Databases   ███████████████████░  95%   Strong
+Power BI          ███████████████████░  92%   Strong
+Data Engineering  ████████████████░░░░  80%   Growing
+Python            ███████████████░░░░░  75%   Improving
+AWS Cloud         ████████████░░░░░░░░  60%   Learning
+Apache Airflow    ██████████░░░░░░░░░░  50%   Practicing
+Apache Spark      ████████░░░░░░░░░░░░  40%   Studying
+dbt               ███████░░░░░░░░░░░░░  35%   Beginner
 ```
 
 ---
@@ -164,38 +157,35 @@ dbt               ███████░░░░░░░░░░░░░  
 
 <div align="center">
 
-| 🏷️ | Project | Stack | What It Does | Status |
-|:---:|---------|:-----:|-------------|:------:|
-| ☁️ | [**Finance Analytics**](https://github.com/siddheshsalve77/finance-analytics-siddhesh) | ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square) | End-to-end financial reporting pipeline | ✅ Live |
-| 📈 | [**Sales Performance SQL**](https://github.com/siddheshsalve77/Sales-performance-SQL) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square) | Full ETL: import → clean → schema → KPIs | ✅ Live |
-| 🛒 | [**Flipkart Power BI Dashboard**](https://github.com/siddheshsalve77/FLIPKART-SALES-POWER-BI-DASHBOARD) | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logoColor=black) | Interactive eCommerce insights dashboard | ✅ Live |
-| 🛍️ | [**Grocery Wars Analytics**](https://github.com/siddheshsalve77/Grocery-Store-Wars-Analytics-Dashboard-Zepto-vs-Blinkit-) | ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logoColor=black) | Zepto vs Blinkit — 15+ cities real-time | ✅ Live |
-| 🔧 | **Cloud ETL Pipeline** *(Coming Soon)* | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square) | S3 → Glue → Redshift automated pipeline | 🔨 WIP |
-| ❄️ | **Snowflake dbt Project** *(Coming Soon)* | ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square) ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square) | Modular data transformation with dbt | 🔨 WIP |
+| Project | Stack | Description | Status |
+|---------|:-----:|-------------|:------:|
+| [**Finance Analytics**](https://github.com/siddheshsalve77/finance-analytics-siddhesh) | `SQL` `PostgreSQL` | End-to-end financial reporting pipeline | ✅ Live |
+| [**Sales Performance SQL**](https://github.com/siddheshsalve77/Sales-performance-SQL) | `PostgreSQL` | Full ETL: import → clean → schema → KPIs | ✅ Live |
+| [**Flipkart Power BI Dashboard**](https://github.com/siddheshsalve77/FLIPKART-SALES-POWER-BI-DASHBOARD) | `Power BI` | Interactive eCommerce insights dashboard | ✅ Live |
+| [**Grocery Wars Analytics**](https://github.com/siddheshsalve77/Grocery-Store-Wars-Analytics-Dashboard-Zepto-vs-Blinkit-) | `Power BI` | Zepto vs Blinkit — 15+ cities real-time | ✅ Live |
+| **Cloud ETL Pipeline** *(Coming Soon)* | `AWS` `Airflow` | S3 → Glue → Redshift automated pipeline | 🔨 WIP |
+| **Snowflake dbt Project** *(Coming Soon)* | `Snowflake` `dbt` | Modular data transformation with dbt | 🔨 WIP |
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics Dashboard
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<!-- Stats Cards Row 1 -->
-<img src="https://github-readme-stats.vercel.app/api?username=siddheshsalve77&show_icons=true&theme=github_dark&border_color=00b4d8&title_color=00b4d8&icon_color=90e0ef&text_color=caf0f8&bg_color=0d1117&include_all_commits=true&count_private=true&rank_icon=github&show=reviews,discussions_started" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api?username=siddheshsalve77&show_icons=true&theme=github_dark&border_color=00b4d8&title_color=00b4d8&icon_color=90e0ef&text_color=caf0f8&bg_color=0d1117&include_all_commits=true&count_private=true" height="185"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshsalve77&layout=donut&theme=github_dark&border_color=00b4d8&title_color=00b4d8&text_color=caf0f8&bg_color=0d1117" height="190"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddheshsalve77&layout=donut&theme=github_dark&border_color=00b4d8&title_color=00b4d8&text_color=caf0f8&bg_color=0d1117" height="185"/>
 
 </div>
 
-<!-- Streak Stats -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=siddheshsalve77&theme=github-dark-blue&border=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=90e0ef&currStreakNum=ffffff&sideNums=caf0f8&dates=8b949e" width="70%"/>
+  <img src="https://streak-stats.demolab.com?user=siddheshsalve77&theme=github-dark-blue&border=00b4d8&ring=00b4d8&fire=ff6b6b&currStreakLabel=00b4d8&sideLabels=90e0ef&currStreakNum=ffffff&sideNums=caf0f8" width="70%"/>
 </div>
 
 <br/>
 
-<!-- Profile Summary Card -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=siddheshsalve77&theme=github_dark" width="95%"/>
 </div>
@@ -213,7 +203,7 @@ dbt               ███████░░░░░░░░░░░░░  
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=siddheshsalve77&theme=algolia&column=7&no-frame=true&margin-w=6&title=Stars,Commits,Repositories,Followers,PullRequest,Issues,Experience" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=siddheshsalve77&theme=algolia&column=7&no-frame=true&margin-w=6" width="100%"/>
 </div>
 
 ---
@@ -221,14 +211,11 @@ dbt               ███████░░░░░░░░░░░░░  
 ## 🐍 Contribution Snake
 
 <div align="center">
-
-<!-- Snake animation — you need to set up GitHub Action for this (see setup guide below) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddheshsalve77/siddheshsalve77/output/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddheshsalve77/siddheshsalve77/output/github-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/siddheshsalve77/siddheshsalve77/output/github-snake-dark.svg"/>
-</picture>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddheshsalve77/siddheshsalve77/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddheshsalve77/siddheshsalve77/output/github-snake.svg"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/siddheshsalve77/siddheshsalve77/output/github-snake-dark.svg"/>
+  </picture>
 </div>
 
 ---
@@ -236,15 +223,7 @@ dbt               ███████░░░░░░░░░░░░░  
 ## 📈 Contribution Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddheshsalve77&bg_color=0d1117&color=00b4d8&line=0077b6&point=90e0ef&area=true&area_color=001d3d&hide_border=true&radius=8&custom_title=Siddhesh's%20Contribution%20Graph" width="96%"/>
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=In%20God%20we%20trust%2C%20all%20others%20bring%20data&author=W.%20Edwards%20Deming" width="80%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddheshsalve77&bg_color=0d1117&color=00b4d8&line=0077b6&point=90e0ef&area=true&area_color=001d3d&hide_border=true&radius=8&custom_title=Siddhesh%27s%20Contribution%20Graph" width="96%"/>
 </div>
 
 ---
@@ -254,31 +233,24 @@ dbt               ███████░░░░░░░░░░░░░  
 <div align="center">
 
 ```
-🏆 CERTIFICATIONS & COURSES
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
- ✅  AWS Cloud Practitioner       [Completed]
- ✅  Snowflake Fundamentals       [Completed]
- ✅  Power BI Data Analyst        [Completed]
- ✅  Advanced SQL                 [Completed]
- 🔄  AWS Solutions Architect      [In Progress]
- 🔄  dbt Fundamentals             [In Progress]
- 📌  Apache Spark Developer       [Planned]
- 📌  Google Cloud Professional    [Planned]
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+CERTIFICATIONS & ROADMAP
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ [DONE]  AWS Cloud Practitioner
+ [DONE]  Snowflake Fundamentals
+ [DONE]  Power BI Data Analyst
+ [DONE]  Advanced SQL
+ [ WIP ] AWS Solutions Architect
+ [ WIP ] dbt Fundamentals
+ [NEXT]  Apache Spark Developer
+ [NEXT]  Google Cloud Professional DE
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
 </div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-Core%20Certified-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Analyst-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/dbt-Fundamentals-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-</div>
-
 ---
 
-## 🌐 Let's Connect!
+## 🌐 Let's Connect
 
 <div align="center">
 
@@ -293,30 +265,24 @@ dbt               ███████░░░░░░░░░░░░░  
 <a href="https://github.com/siddheshsalve77">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-&nbsp;
-<a href="https://siddheshsalve77.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-00b4d8?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <br/><br/>
 
-> 🌊 *"Data is not just numbers — it's the story of how the world works."*
+> *"Data is not just numbers — it's the story of how the world works."*
 >
-> **— Open to Data Engineering roles, internships & collaborations!** 🚀
+> **Open to Data Engineering roles, internships & collaborations!**
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=siddheshsalve77&color=00b4d8&style=flat-square&label=Profile+Views"/>
 
 </div>
 
----
-
-<!-- SETUP NOTE FOR SNAKE ANIMATION -->
-<!--
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🐍 SNAKE ANIMATION SETUP (One-time GitHub Action)
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1. In YOUR profile repo (siddheshsalve77), go to:
-   Settings → Actions → General → Enable Actions
+<!-- SNAKE SETUP INSTRUCTIONS
+To enable the contribution snake animation:
+1. In this repo go to: Settings > Actions > General > Allow all actions
 2. Create file: .github/workflows/snake.yml
-3. Paste this content:
+3. Paste this:
 
 name: Generate Snake Animation
 on:
@@ -340,9 +306,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-4. Run it manually from Actions tab → it generates the snake! 🐍
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. Go to Actions tab > Run workflow manually
 -->
 
-<!-- FOOTER WAVE -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,40:0077b6,80:003566,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20great%20data%20systems%20🚀&fontSize=18&fontColor=caf0f8&fontAlignY=65&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,40:0077b6,80:003566,100:0d1117&height=140&section=footer&text=Thanks%20for%20visiting!%20Let%27s%20build%20great%20data%20systems&fontSize=18&fontColor=caf0f8&fontAlignY=65&animation=twinkling"/>
